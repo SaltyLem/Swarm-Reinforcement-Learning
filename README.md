@@ -34,5 +34,6 @@ $ 環境名を入力: r=0
 ```
 
 By default, environments with difficulty levels 0 and 0.3 are provided.
+
 If you need a different environment, please generate it yourself.
 
